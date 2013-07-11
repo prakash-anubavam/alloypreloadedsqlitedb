@@ -1,0 +1,19 @@
+"Window": {
+	backgroundColor: '#fff',
+	navBarHidden: true
+}
+"#name": {
+	top: '10dp',
+	font: {
+		fontSize: '24dp',
+		fontWeight: 'bold'
+	}
+}
+
+"#nickname": {
+	top: '10dp',
+	font: {
+		fontSize: '16dp',
+		fonWeight: 'normal'
+	}
+}

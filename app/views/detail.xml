@@ -1,0 +1,11 @@
+<Alloy>
+	<Window id="detail">
+		<ScrollView layout="vertical">
+			<View layout="vertical">
+				<Label id="name" text="{name}"/>
+				<Label id="nickname" text="{nickname}"/>
+			</View>>
+		</ScrollView>>
+	</Window>>
+
+</Alloy>
